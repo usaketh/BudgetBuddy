@@ -1,4 +1,4 @@
-# Expense tracker with touch functionality built using React
+# Expense tracker with features to create, delete and show current balance.
 Try it out:  https://budgetbuddy20.netlify.app/
 
 ![Screenshot 2023-12-07 212203](https://github.com/usaketh/BudgetBuddy/assets/64151405/ded425eb-6d3d-48d2-b8cb-62bd9b705fe3)
