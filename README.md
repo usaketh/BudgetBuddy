@@ -13,3 +13,4 @@ Try it out:  https://budgetbuddy20.netlify.app/
 3.➕/➖ Users can add/delete income and expenses.
 
 4.💰 Users can view their current balance and transaction history.
+
